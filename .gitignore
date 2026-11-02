@@ -1,0 +1,12 @@
+# Node.js dependencies folder — never commit this!
+node_modules/
+
+# Environment variables — contains secrets, never commit!
+.env
+
+# macOS system files
+.DS_Store
+
+# Editor/IDE folders
+.vscode/
+.idea/
